@@ -21,7 +21,7 @@ void LireDate (strdate	*date);
 int main (int argc, char *argv[])
 {
 	short choix, repMenu;
-
+	printf ("Salut Timon");
 	choix = -1;
 	repMenu = 0;	
 
